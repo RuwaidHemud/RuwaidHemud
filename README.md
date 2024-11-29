@@ -25,7 +25,11 @@ Helping Brands Grow: From Stunning Designs to Top Search Rankings.
    <h4> <a href="https://fashionvoyagehub.shop/">Fashion Voyage Hub – ECommerce Website Design</a></h4>
         A sleek, responsive e-commerce website designed for Fashion Voyage Hub, showcasing trendy women’s dresses available for purchase. The site features a user-friendly shopping experience, secure checkout, and seamless navigation, helping customers easily find and purchase their favorite dresses. Visit FashionVoyageHub.shop to explore the collection and enjoy a hassle-free shopping experience.
 
+## Programming Languages
 
+Here are the programming languages I work with:
+
+- `Python` - `JavaScript` - `HTML5` - `CSS3` - `SCSS` - `Node.js`  - `C#`  - `.Net Core ` 
 
 
 
